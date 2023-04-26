@@ -17,5 +17,5 @@ Facebook:"Justin Ofracio" & Gmail:"justinofloki@gmail.com"
             System.out.println("Every programmer deserves a high salary!");
         } else {
             System.out.println("I repeat, every programmer deserves a high salary.");
-        }
+        } -Tino!
     
