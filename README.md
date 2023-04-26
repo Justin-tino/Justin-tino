@@ -8,6 +8,10 @@ Facebook:"Justin Ofracio" & Gmail:"justinofloki@gmail.com"
 
 
 
+
+
+
+
 public class ProgrammerSalary {
     public static void main(String[] args) {
         boolean programmerDeservesHighSalary = true;
