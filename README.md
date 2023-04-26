@@ -1,9 +1,9 @@
-- 👋 Hi, I’m @Justin-tino
-- 👀 I’m interested in UI design/Front-End developer and Data Analyst 
-- 🌱 I’m currently learning Java
-- 💞️ I’m looking to collaborate on companies 
-- 📫 How to contact me? just send me a message or message me on
-Facebook:"Justin Ofracio" & Gmail:"justinofloki@gmail.com"
+- Hi, I’m Justin-tino
+- I do UI design/Front-End developer and Data Analyst 
+- I’m currently learning Java
+- I’m looking to collaborate on companies 
+- How to contact me? just send me a message or message me on
+Facebook:"Justin Ofracio", Gmail:"justinofloki@gmail.com" and IG:"_tinoxcrtz"
 
 
 
@@ -12,7 +12,7 @@ Facebook:"Justin Ofracio" & Gmail:"justinofloki@gmail.com"
 
 
 
-
+quote:
         if (programmerDeservesHighSalary) {
             System.out.println("Every programmer deserves a high salary!");
         } else {
