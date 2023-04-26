@@ -12,10 +12,7 @@ Facebook:"Justin Ofracio" & Gmail:"justinofloki@gmail.com"
 
 
 
-public class ProgrammerSalary {
-    public static void main(String[] args) {
-        boolean programmerDeservesHighSalary = true;
-        
+
         if (programmerDeservesHighSalary) {
             System.out.println("Every programmer deserves a high salary!");
         } else {
