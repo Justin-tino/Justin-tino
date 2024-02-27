@@ -1,5 +1,5 @@
 - Hi, I’m Justin-tino
-- I do UI design/Front-End developing and Data Analyzing 
+- I do UI design/Front-End developing and Data Analysis
 - I’m currently learning Java
 - I’m looking to collaborate with companies 
 - How to contact me? just send me a message me on
