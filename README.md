@@ -1,5 +1,5 @@
 <h1 align="center">👋 Hi, I’m Justin Ofracio</h1>
-<h3 align="center">Freelancer Jr. Software Engineer (2023–2025)</h3>
+<h3 align="center">Full Stack Web Developer & Jr. Cybersecurity</h3>
 
 <p align="center">
   <a href="https://justinofracio.netlify.app/"><img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio Badge"></a>
@@ -12,6 +12,7 @@
 - UI Designer: bringing ideas to life using Figma and Canva.  
 - Cybersecurity Aware: completed CISCO Cybersecurity Fundamentals.  
 - Currently improving my Node.js & Database Management.  
+
 
 
 🛠️ Tech Stack  
@@ -28,13 +29,16 @@ Web Development
   <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
 </p>
 
-Version Control & Deployment
+
+
+📂 Version Control & Deployment
 <p>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"/>
   <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
   <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
   <img src="https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white"/>
 </p>
+
 
 
 🖥️ System Development  
@@ -44,6 +48,7 @@ Version Control & Deployment
 </p>
 
 
+
 🎨 UI/UX Design Tools  
 <p>
   <img src="https://img.shields.io/badge/Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white"/>
@@ -51,13 +56,16 @@ Version Control & Deployment
 </p>
 
 
+
 🔒 Cybersecurity Background  
 - Completed CISCO Cybersecurity Fundamentals  
 - Knowledgeable in basic online security and safe development practices  
 
 
+
 🌐 My E-Portfolio  
 📎 [justinofracio.netlify.app](https://justinofracio.netlify.app/)
+
 
 
 <h3 align="center">💡 Always learning, always building.</h3>
