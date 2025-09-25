@@ -3,7 +3,6 @@
 
 <p align="center">
   <a href="https://justinofracio.netlify.app/"><img src="https://img.shields.io/badge/🌐%20My%20Portfolio-Visit-blue?style=for-the-badge" alt="Portfolio Badge"></a>
-  <a href="https://github.com/yourgithubusername"><img src="https://img.shields.io/github/followers/yourgithubusername?label=Follow&style=for-the-badge" alt="GitHub followers"></a>
 </p>
 
 
