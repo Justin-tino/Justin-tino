@@ -1,16 +1,3 @@
-<p align="center">
-  <img 
-    src="https://scontent.fcrk2-4.fna.fbcdn.net/v/t1.15752-9/480778288_1003987268284841_7750228684553999804_n.jpg?stp=dst-jpg_p480x480_tt6&_nc_cat=101&ccb=1-7&_nc_sid=0024fc&_nc_eui2=AeHxtcGfZGiWuR55D2bRGkEGpHXWtCf5O0Kkdda0J_k7QllUNpeTqhY-yAzce3jMwnaMIgDWulVMHkOLBhql45X-&_nc_ohc=td96v8AkQz4Q7kNvwFQOxOX&_nc_oc=AdlN_aOkfU9qTo6SbFa3hg87WNTgFiFXW_hAJ5o6K5jW14VcHTAL3parzmCoKW4UjoQ&_nc_ad=z-m&_nc_cid=0&_nc_zt=23&_nc_ht=scontent.fcrk2-4.fna&oh=03_Q7cD3QEyeznp03Lt7qNxMh66cjJoMDJJJZRita1h7lHR6s6iUA&oe=68FC5D44"
-    style="
-      width: 120px;
-      height: 120px;
-      border-radius: 50%;
-      object-fit: cover;
-      object-position: top;
-    "
-  >
-</p>
-
 <h1 align="center">👋 Hi, I’m Justin Ofracio</h1>
 <h3 align="center">Full Stack Web Developer & Jr. Cybersecurity</h3>
 
