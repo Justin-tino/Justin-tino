@@ -7,11 +7,11 @@
 </p>
 
 
-🚀 About Me  
-💻Full Stack Web Developer: specializing in crafting responsive, user-friendly web apps.  
-🎨UI Designer: bringing ideas to life using Figma and Canva.  
-🔐Cybersecurity Aware: completed CISCO Cybersecurity Fundamentals.  
-🌱 Currently improving my Node.js & Database Management.  
+💻About Me  
+- Full Stack Web Developer: specializing in crafting responsive, user-friendly web apps.  
+- UI Designer: bringing ideas to life using Figma and Canva.  
+- Cybersecurity Aware: completed CISCO Cybersecurity Fundamentals.  
+- Currently improving my Node.js & Database Management.  
 
 
 🛠️ Tech Stack  
