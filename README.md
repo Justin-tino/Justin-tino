@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Justin Ofracio
+#  👋 Hello, I'm Justin Ofracio
 
 <h3 align="center">Full Stack Developer | Cybersecurity Enthusiast</h3>
 
@@ -17,14 +17,6 @@
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
-
----
-
-## 🚀 Professional Profile
-
-Full Stack Web Developer specializing in modern JavaScript technologies with a strong foundation in cybersecurity principles. Experienced in building responsive, scalable web applications using cutting-edge technologies including React, Next.js, and Node.js. Completed CISCO Cybersecurity Fundamentals, integrating security best practices throughout the development lifecycle.
-
-**Current Focus:** Enhancing expertise in Node.js, Database Management, and advancing cybersecurity knowledge.
 
 ---
 
