@@ -10,10 +10,10 @@
   <a href="https://justinofracio.netlify.app/">
     <img src="https://img.shields.io/badge/🌐%20Portfolio-Visit%20My%20World-blue?style=for-the-badge&logo=netlify" alt="Portfolio"/>
   </a>
-  <a href="https://linkedin.com/in/yourprofile">
+  <a href="https://www.linkedin.com/in/justin-ofracio-aa329031b/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect%20Professional-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
-  <a href="mailto:youremail@example.com">
+  <a href="mailto:justinofloki@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact%20Me-D14836?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
 </p>
